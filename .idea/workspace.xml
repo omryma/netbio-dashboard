@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="004eee9c-9b88-4433-bee3-5f01d3d39ab4" name="Default Changelist" comment="" />
+    <list default="true" id="004eee9c-9b88-4433-bee3-5f01d3d39ab4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/placeholder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/tourquise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/users_locations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/markersColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZRasY8PTLoCYYT5NYpv36fl86R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,11 +109,22 @@
       <workItem from="1590915264918" duration="822000" />
       <workItem from="1590923274995" duration="1699000" />
       <workItem from="1591283816588" duration="833000" />
-      <workItem from="1592749904432" duration="349000" />
+      <workItem from="1592749904432" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
